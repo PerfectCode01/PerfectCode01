@@ -29,7 +29,7 @@ Je m'engage à élargir mes compétences en développement web et mobile tout en
 
 Je suis toujours ouvert aux collaborations, aux échanges sur les technologies modernes, et aux nouvelles opportunités de développement.
 
-- **Email** : ton.email@example.com
+- **Email** : japhetbazungula@systematik.tech
 
 ## 📜 Licence
 
