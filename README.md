@@ -4,10 +4,16 @@ Bienvenue sur mon dépôt GitHub ! Je suis un développeur avec une expertise en
 
 ## 🛠️ Compétences Techniques
 
-- **Langages** : Dart, JavaScript, PHP
+- **Langages** : Dart, JavaScript, PHP, Flutter
+- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter)](https://skillicons.dev)
+
 - **Frameworks** : Flutter, Laravel
 - **Outils** : Git, VS Code, Android Studio
 - **Technologies** : Développement mobile, Développement web, API REST, Gestion de base de données, Animations 3D
+
+![TonNom's GitHub stats](https://github-readme-stats.vercel.app/api?username=PerfectCode01&show_icons=true&theme=radical)
+
 
 ## 📚 Projets Récents
 
