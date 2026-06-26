@@ -28,14 +28,11 @@ J'aide les entreprises et entrepreneurs à transformer leurs idées et processus
 - React
 - Vue.js
 - TypeScript
-- JavaScript
 - Tailwind CSS
 
 ### Backend
 
 - Laravel
-- PHP
-- REST API
 
 ### Base de données
 
