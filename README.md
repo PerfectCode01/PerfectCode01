@@ -1,16 +1,85 @@
-## Hi there 👋
+# Bonjour 👋, je suis Japhet Bazungula
 
-<!--
-**PerfectCode01/PerfectCode01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Développeur d'applications web et mobiles
 
-Here are some ideas to get you started:
+J'aide les entreprises et entrepreneurs à transformer leurs idées et processus métier en solutions numériques performantes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 Ce que je développe
+
+- 📱 Applications mobiles avec Flutter
+- 🌐 Applications web avec React et Vue.js
+- ⚙️ APIs REST et backends avec Laravel
+- 🗄️ Bases de données MySQL
+- 🚀 Applications orientées métier et e-commerce
+
+---
+
+## 🛠️ Stack technique
+
+### Mobile
+
+- Flutter
+- Dart
+
+### Frontend
+
+- React
+- Vue.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+### Backend
+
+- Laravel
+- PHP
+- REST API
+
+### Base de données
+
+- MySQL
+
+### Outils
+
+- Git
+- GitHub
+- Postman
+- Figma
+
+---
+
+## 🚀 Quelques projets
+
+### 🌐 Portfolio
+
+Portfolio personnel développé avec React, Vite et Tailwind CSS.
+
+### 🛒 KIZINE
+
+plateforme e-commerce alimentaire
+
+### 🍽️ Quisine
+
+plateforme e-commerce alimentaire
+
+### 📱 UK App
+
+Application mobile développée avec Flutter.
+
+---
+
+---
+
+## 🤝 Me contacter
+
+🌍 Portfolio : https://japhetbazungula.netlify.app
+
+💼 LinkedIn : bientôt
+
+📧 Email : japhetbazungula01@gmail.com
+
+---
+
+Merci de visiter mon profil 👋
